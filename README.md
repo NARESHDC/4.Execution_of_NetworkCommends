@@ -1,6 +1,6 @@
 # EXP: 4.Execution_of_NetworkCommands
-### Register no: 212222110032
-### Name: Prabha C
+### Register no: 212223220064
+### Name: NARESH.M
 ## AIM :
 Use of Network commands in Real Time environment
 ## Software : 
